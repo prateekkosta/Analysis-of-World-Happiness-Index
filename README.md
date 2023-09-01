@@ -42,10 +42,11 @@ The code follows a structured approach, divided into the following sections:
 2. Install the required Python packages using `pip install -r requirements.txt`.
 3. Run the code file using a Python interpreter.
 
-##Libraries Used
+## Libraries Used
   1. Numpy
   2. Pandas
   3. Matplotlib
+  4. Python
   
 ## Conclusion
 
